@@ -1,2 +1,2 @@
 # java-sample
-Sample Java Test
+Sample Java Test.
